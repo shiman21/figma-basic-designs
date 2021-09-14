@@ -1,0 +1,113 @@
+position: relative;
+width: 414px;
+height: 896px;
+
+background: url(blue marble.jpg);
+border: 1px solid #000000;
+box-sizing: border-box;
+
+position: absolute;
+width: 348px;
+height: 602px;
+left: 34px;
+top: 35px;
+/* name */
+
+
+position: absolute;
+width: 305px;
+height: 81px;
+left: 54px;
+top: 154px;
+/* email */
+
+
+position: absolute;
+width: 305px;
+height: 81px;
+left: 54px;
+top: 282px;
+/* password */
+
+
+position: absolute;
+width: 305px;
+height: 81px;
+left: 55px;
+top: 410px;
+/* submit button */
+
+
+position: absolute;
+width: 193px;
+height: 52px;
+left: 111px;
+top: 567px;
+
+/* sign up */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: url(blue marble.jpg);
+border: 1px solid #000000;
+box-sizing: border-box;
+/* ful sign in */
+
+
+position: absolute;
+width: 359px;
+height: 740px;
+left: 34px;
+top: 35px;
+/* name */
+
+
+position: absolute;
+width: 305px;
+height: 81px;
+left: 54px;
+top: 154px;
+/* email */
+
+
+position: absolute;
+width: 305px;
+height: 81px;
+left: 54px;
+top: 282px;
+/* password */
+
+
+position: absolute;
+width: 305px;
+height: 81px;
+left: 55px;
+top: 410px;
+/* Verify Password */
+
+
+position: absolute;
+width: 109px;
+height: 19px;
+left: 63px;
+top: 538px;
+
+font-family: Proza Libre;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+
+color: #000000;
+
+/* submit button */
+
+
+position: absolute;
+width: 193px;
+height: 52px;
+left: 111px;
+top: 567px;
